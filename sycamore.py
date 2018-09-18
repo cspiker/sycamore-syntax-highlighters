@@ -50,7 +50,7 @@ class SycamoreStyle(Style):
         Comment.Special:           "",        # class: 'cs'
 
         Keyword:                   BLUE,    # class: 'k'
-        Keyword.Constant:          "",        # class: 'kc'
+        Keyword.Constant:          BLUE,        # class: 'kc'
         Keyword.Declaration:       "",        # class: 'kd'
         Keyword.Namespace:         "",      # class: 'kn'
         Keyword.Pseudo:            "",        # class: 'kp'
