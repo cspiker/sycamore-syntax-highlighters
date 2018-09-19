@@ -9,3 +9,6 @@ A new-format [color scheme](https://www.sublimetext.com/docs/3/color_schemes.htm
 
 ## sycamore.tmTheme
 A [previous-generation](https://www.sublimetext.com/docs/3/color_schemes_tmtheme.html) Sublime Text color scheme.
+
+## sycamore-codehilite.css
+A stylesheet for the Python-Markdown [CodeHilite extension](https://python-markdown.github.io/extensions/code_hilite/).
